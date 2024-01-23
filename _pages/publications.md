@@ -2,10 +2,10 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: $$ \dagger $$ Equal Contribution, $$ * $$ Corrosponding Author(s).
 nav: true
 nav_order: 1
 ---
+$ \dagger $ Equal Contribution, $ * $ Corrosponding Author(s).
 
 <!-- _pages/publications.md -->
 <div class="publications">
