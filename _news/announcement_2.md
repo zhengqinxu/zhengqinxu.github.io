@@ -5,6 +5,6 @@ inline: false
 related_posts: false
 ---
 
-1 paper accepted to CVPR 2021
+1 paper accepted to **CVPR** 2021
 
 
