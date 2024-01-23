@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-3 papers accepted to **AAAI**.
+2 papers accepted to **AAAI**.
