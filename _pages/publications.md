@@ -6,6 +6,8 @@ description: $*$ Equal Contribution
 nav: true
 nav_order: 1
 ---
+$*$ Equal Contribution 
+
 
 **2023**
 - Shun Fang, **Zhengqin Xu**, Shiqian Wu, Shoulie Xie. ''Efficient Robust Principal Component Analysis via Block Krylov Iteration and CUR Decomposition''. 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023.  [PDF](../assets/pdf/2023_CVPR_ERPCA.pdf)
