@@ -6,7 +6,7 @@ subtitle: Shanghai Jiao Tong University. AI Institute.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: xu_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: x1436446591@gmail.com</p>
