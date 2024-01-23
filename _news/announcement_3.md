@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-We receive the [**Best Paper Finalist**](../assets/pdf/2020 ICIEA_award.pdf) Award of ICIEA 2020.  :sparkles::sparkles::sparkles:
+We receive the [**Best Paper Finalist**](../assets/pdf/2020_ICIEA_award.pdf) Award of ICIEA 2020.  :sparkles::sparkles::sparkles:
 
