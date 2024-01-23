@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2021-03-01 10:58:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 
