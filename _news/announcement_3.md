@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile: [quick](../assets/pdf/example_pdf.pdf) 
+We receive the [**Best Paper Finalist**](../assets/pdf/2020 ICIEA_award.pdf) Award of ICIEA 2020.  :sparkles::sparkles::sparkles:
 
