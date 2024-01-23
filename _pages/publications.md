@@ -2,11 +2,10 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: \* Equal Contribution 
 nav: true
 nav_order: 1
 ---
-$*$ Equal Contribution 
+† Equal Contribution, * Corresponding Author(s).
 
 
 **2023**
