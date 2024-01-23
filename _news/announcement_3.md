@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile: [quick](./assets/pdf/example_pdf.pdf) 
+A simple inline announcement with Markdown emoji! :sparkles: :smile: [quick](../assets/pdf/example_pdf.pdf) 
 
